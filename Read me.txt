@@ -6,6 +6,8 @@
 - i Use MDI parent Form
 - on operation menu we can search for employee say mohamed and select and it fill load all pervouis leaves 
 -we can expand it, add reports, and add more languages.
+- and also can add user ROls ,user Permisions and Validations
 
 and if any thing please call me 55433574
+
 
